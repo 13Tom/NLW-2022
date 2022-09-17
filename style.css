@@ -114,6 +114,28 @@ section ul li:hover{
     border: 1px solid #443E54;
 }
 
+.social-list-first {
+    display: flex;
+}
+
+.social-list-first div p{
+    margin-top: 6px;
+}
+.social-list-first div{
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    border-radius: 0px;
+    font-family: 'innter',sans-serif;
+}
+
+.social-list-first div ul{
+    display: block;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+
 /*
             Animação
 */
