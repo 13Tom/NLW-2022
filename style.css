@@ -103,6 +103,10 @@ section ul li:hover{
 
 }
 
+.game-list div{
+    font-family: 'innter',sans-serif;
+}
+
 .game-list img{
     width: 90px;
     border-radius: 8px;
